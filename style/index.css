@@ -6,7 +6,7 @@
 }
 
 body {
-    background:url(../images/background.PNG) ;
+    background:url("../images/background.PNG");
     width: 100%;
     height: 100%;
     display: flex;
